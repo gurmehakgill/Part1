@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author Paul Bonenfant
  */
 public class ComparableStudent {
-
+/*My name is Gurmehak Gill*/
     /**
      * @param args the command line arguments
      * @throws java.lang.CloneNotSupportedException
